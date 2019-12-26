@@ -1,16 +1,19 @@
 # wake_mi_please
 
-Advanced MiBand alarm application
+Advanced MiBand alarm application for Xiaomi Mi Band users.
 
-## Getting Started
+### TODO
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] Connection with Mi Band
+- [x] Sending custom notifications to Mi Band
+- [] Mi Band setup page
+- [] Database (address and clock data)
+- [] Connection test page
+- [] Alarms list page
+- [] New alarm page
+- [] Puzzle list page
+- [] New puzzle creator
+- [] Math puzzle
+- [] QR code puzzle
+- [] PC integration puzzle (login to yours PC / puzzle on PC screen)
+- [] Minigame puzzle
